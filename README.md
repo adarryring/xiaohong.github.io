@@ -1,2 +1,2 @@
 # xiaohong.github.io
-xiaohong
+https://issues.sonatype.org/browse/OSSRH-62092
